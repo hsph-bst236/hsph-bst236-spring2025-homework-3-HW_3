@@ -1,0 +1,5 @@
+numpy>=1.24.2
+polars>=0.20.0
+tqdm>=4.66.0
+pandas>=2.0
+duckdb>=1.0.0
